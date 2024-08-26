@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://images.app.goo.gl/MgG9UPkfhctZKNAx6"  />
+  <img height="205" src="https://img.freepik.com/premium-photo/kid-programmer-learn-coding-computer-tablet-phone-child-create-code-program-generative-ai_887552-7692.jpg"  />
 </div>
 
 ###
